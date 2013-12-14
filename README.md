@@ -2,7 +2,7 @@
 =======
 
 
-Esta aplicação foi desenvolvida para o curso **Desenvolvendo aplicações para o Android** no qual nosso objetivo é apresentar o framework de injeção de dependências [RoboGuice](https://github.com/roboguice/roboguice). Com ele foi implementado um CRUD de um aluno com persistência em arquivos de texto simples. Com o objetivo de demonstrar melhor o uso do framework e da API do Android, foram abordados os seguites tópicos: Comandos de Voz, Fazer uma ligação, SMS, Vibração, Serialização.
+Esta aplicação foi desenvolvida para o curso **Desenvolvendo aplicações para o Android** no qual nosso objetivo é apresentar o framework de injeção de dependências [RoboGuice](https://github.com/roboguice/roboguice). Com ele foi implementado um CRUD de um aluno com persistência em Banco de Dados utilizando o SQLite. Com o objetivo de demonstrar melhor o uso do framework e da API do Android, foram abordados os seguites tópicos: Google Maps v2, Comunicação HTTP de forma assíncrona, SharedPreferences.
 
 
 * Instrutor: Gabriel Tavares (gabrieltavaresmelo@gmail.com)
