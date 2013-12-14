@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_novo"
+        android:orderInCategory="100"
+        android:title="@string/action_new"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_buscar"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_baixar"
+        android:orderInCategory="100"
+        android:title="@string/action_download"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_preferences"
+        android:orderInCategory="100"
+        android:title="@string/action_preferences"
+        android:showAsAction="never" />
+    
+</menu>
